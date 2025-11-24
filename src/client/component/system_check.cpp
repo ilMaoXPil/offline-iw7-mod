@@ -85,7 +85,7 @@ namespace system_check
 	public:
 		void post_load() override
 		{
-			verify_binary_version();
+			//verify_binary_version();
 
 			if (!is_valid())
 			{

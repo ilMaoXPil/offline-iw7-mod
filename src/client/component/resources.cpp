@@ -78,4 +78,4 @@ namespace resources
 	};
 }
 
-REGISTER_COMPONENT(resources::component)
+//REGISTER_COMPONENT(resources::component)
