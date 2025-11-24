@@ -19,6 +19,8 @@ Nonetheless I recommend you purchase the game on Steam when it goes on sale, but
 
 While I made this fork specifically to make Zombies Offline, Multiplayer with Bots as well as Campaign also works with this mod as well! If you want any parts of the offline experiance of Infinite Warfare, this mod is for you!
 
+I especially wanted to make this fork as the original repository required you to compile everything all by yourself and you can't do that on Linux! For you folks in particular who wanted to play this offline on the Steam Deck, I compiled it so you didn't have to!
+
 ## Installation
 
 - Simply go to releases, download the exe and place it into your Infinite Warfare root folder.
